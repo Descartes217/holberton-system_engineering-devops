@@ -1,0 +1,2 @@
+#!/bin/bash
+su -l root usermod 123 betty
