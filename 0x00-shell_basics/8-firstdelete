@@ -1,1 +1,2 @@
-#!/bin/bashm /tmp/holberton/betty
+#!/bin/bash
+rm /tmp/holberton/betty
