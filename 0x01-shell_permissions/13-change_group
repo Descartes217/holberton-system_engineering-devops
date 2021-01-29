@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp dhk hello
+chgrp holberton hello
